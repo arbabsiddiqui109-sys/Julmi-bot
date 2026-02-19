@@ -181,7 +181,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝗝𝗨𝗟𝗠𝗜 𝗝𝗔𝗔𝗧☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗝𝗨𝗟𝗠𝗜\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram Username 👉https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝐀𝐑𝐘𝐀𝐍 𝗝𝗔𝗔𝗧☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐑𝐘𝐀𝐍\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/BR0K4NB0YARY4NH3RE420\n👋For Any Kind Of Help Contact On Instagram Username 👉https://www.instagram.com/br0k4n_b0y_ary4n_143?igsh=MWJ5ejAxbjUzdm85", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
@@ -189,7 +189,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
-     return api.sendMessage("He is Julmi Jaat. He Gives his name Julmi everywharehttps://www.facebook.com/julmijaat1008?mibextid=ZbWKwL", threadID);
+     return api.sendMessage("He is aryan Jaat. He Gives his name Julmi everywharehttps://www.facebook.com/BR0K4NB0YARY4NH3RE420", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
@@ -357,7 +357,7 @@ if ((event.body.toLowerCase() == "I love you") || (event.body.toLowerCase() == "
     var msg = {
        
       body: `🍂✨${name}✨🍂\n\n${rand}
-     *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍𝗝𝗨𝗟𝗠𝗜✦`
+     *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍𝐀𝐑𝐘𝐀𝐍✦`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
